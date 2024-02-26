@@ -1,0 +1,42 @@
+.desk{
+    background-color: black;
+    width: 600px;
+    height: 900px;
+    margin-left: 359px;
+}
+.pic1{
+    background-image: url("img/pic1.PNG");
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-size: cover;
+}
+.pic2{
+    background-image: url("img/pic2.PNG");
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-size: cover;
+}
+.pic3{
+    background-image: url("img/pic3.PNG");
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-size: cover;
+}
+hr{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    height: 10px;
+    width: 600px;
+    color: black;
+    background-color: black;
+    margin-left: 359px;
+}
+p{
+    text-align: center;
+}
+h1{
+    margin-top: 120px;
+    text-align: center;
+    margin-bottom: 0px;
+    font-size: 40px;
+}

@@ -1,0 +1,3 @@
+git init - инициализация гита
+git remote add origin | url | - привязывает проект к репозиторию
+git add | name_file | -
